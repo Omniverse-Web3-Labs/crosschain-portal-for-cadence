@@ -1,5 +1,5 @@
-# crosschain portal for cadence
-Protocol stack implemented with cadence that provide some of the basic functions of the crosschain protocol to make resources on Flow be Omnichain.
+# cross-chain portal for cadence
+Protocol stack implemented with cadence that provide some of the basic functions of the cross-chain protocol to make resources on Flow be Omnichain.
 
 ## Current Developing
 Development in branch `Crypto-dev`

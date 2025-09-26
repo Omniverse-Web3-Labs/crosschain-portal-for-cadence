@@ -1,9 +1,9 @@
 # Test Guide
 
-This document provides a test guide of crosschain portal along with an Omniverse NFT infrastructure based on Omni. The tests include the following parts:
+This document provides a test guide of cross-chain portal along with an Omniverse NFT infrastructure based on Omni. The tests include the following parts:
 * [Algorithm test](#algorithm-test) provides an intuitive way to understand how the underlying algoritms work of Omni.
 * The working flow of the [Omniverse NFT infrastructure](#omniverse-nft-infrastructure-test) based on Omni checks the complete process of sending an NFT to other chains from Flow and receive the NFT back.
-* [SDK Test](#sdk-test) provides examples of how to build Omniverse dApps based on crosschain portal and tests the basic functions.
+* [SDK Test](#sdk-test) provides examples of how to build Omniverse dApps based on cross-chain portal and tests the basic functions.
 
 # Testing Details
 ## Algorithm test
